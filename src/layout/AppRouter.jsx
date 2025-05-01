@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Layout from "./layout.jsx";
+import Layout from "./Layout.jsx";
 import HomePage from "../pages/Home.jsx";
 import NewTask from "../pages/NewTask.jsx";
 import Task from "../pages/Task.jsx";
